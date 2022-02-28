@@ -1,0 +1,149 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>New news, and strange news from Babylon or the coppy of a letter which was sent from the Master of Malta, to a gentleman and kinsman of his resident here in England, wherein is related the birth of a very strange prophet, with his manner of living, actions, and great wonders performed by him : also his departure from thence, threatning with terrour and feare the countries desolation.</title>
+            <author>Master of Malta.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1641</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A89996</idno>
+            <idno type="STC">Wing N682</idno>
+            <idno type="STC">Thomason E171_20</idno>
+            <idno type="STC">ESTC R17934</idno>
+            <idno type="EEBO-CITATION">99860303</idno>
+            <idno type="PROQUEST">99860303</idno>
+            <idno type="VID">112421</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A89996)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 112421)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 30:E171[20])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>New news, and strange news from Babylon or the coppy of a letter which was sent from the Master of Malta, to a gentleman and kinsman of his resident here in England, wherein is related the birth of a very strange prophet, with his manner of living, actions, and great wonders performed by him : also his departure from thence, threatning with terrour and feare the countries desolation.</title>
+                  <author>Master of Malta.</author>
+               </titleStmt>
+               <extent>[2], 1 [i.e. 5], [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed, for John Thomas,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Page 5 is misnumbered 1.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Prophets --  Malta --  Early works to 1800.</term>
+               <term>Antichrist --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-04</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-04</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:112421:1" rendition="simple:additions"/>
+            <p>New News, AND Strange News from BABYLON</p>
+            <p>OR The coppy of a letter which was ſent from the Maſter of <hi>Malta,</hi> to a Gentle<g ref="char:EOLhyphen"/>man and kinſman of his reſident here in <hi>ENGLAND,</hi>
+            </p>
+            <p>wherein is related the birth of a very ſtrange Prophet, with his manner of living, actions, and great wonders performed by him:</p>
+            <p>Alſo his departure from thence, threatning with terrour and feare the Countries Deſolation.</p>
+            <p>Printed, for <hi>John Thomas</hi> 1641.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:112421:2"/>
+            <pb n="1" facs="tcp:112421:2"/>
+            <head>News from <hi>Babylon,</hi> of the birth of a ſtrange Prophet.</head>
+            <p>
+               <seg rend="decorInit">L</seg>Etters were ſent from the Maſter of <hi>Malta</hi> to a kinſman of his here in this Kingdome, wherein were very many ſtrange things ſpecified, which are theſe which follow.</p>
+            <p>There was from a naturall woman borne a man child, of very ſtrange and unheard of feature; his eies ſparkled like Gold, hee was borne with teeth, which reſembled cats teeth, he had alſo nailes on his fingers and toes, but not like a man, but like a beaſt, he ſpake to them ſo ſoone as hee was borne, and reproved them for any thing which was done againſt his will, taking great ſtate upon him, and he calleth himſelfe the great Prophet, he much delighteth in, and loveth Ima<g ref="char:EOLhyphen"/>ges, and Pictures, and verie devoutly will pray, ſeven or eight times each day, he loveth to walke ſolitarily in the fields, and he eateth verie little, and that which he doth eate is verie corſe.</p>
+            <p>One day as hee was walking the fields, atten<g ref="char:EOLhyphen"/>ded on by thoſe which uſe to wait on him, which are a douzen or fourteen uglie, and ilſhapen fel<g ref="char:EOLhyphen"/>lows
+<pb n="2" facs="tcp:112421:3"/>none know from whence they came, or whither they will goe, he met with three or four which were in the ſhape of men, which when they came neere him they kneeled and delivered let<g ref="char:EOLhyphen"/>ters unto him, which when hee had read hee tore the l tters, and the bearers thereof vaniſhed a<g ref="char:EOLhyphen"/>way, and were no more ſeene. Another time he was walking into the Temple, into which he was conveyed with ſuch a ſweete harmonie of mu<g ref="char:EOLhyphen"/>ſique that hath not beene heard on the earth be<g ref="char:EOLhyphen"/>fore, and at his comming out thereof there was ſuch a clangor of Drums, Gunns, and Trumpets in the aire, which made the whole Countrey a<g ref="char:EOLhyphen"/>mazed, for it was ſeene all over the Countrey, of which he began to propheſie, that at his death there ſhould bee warrs, and rumours of warrs, in ſo much that all the weſterne countreys ſhall be laid deſolate, but this Countrey ſhall flouriſh like the bay tree even in the middeſt of the win<g ref="char:EOLhyphen"/>ter of misfortunes. He will not abide to heare of the Scriptures, for he ſaith that there was no ſuch thing as is there ſpecified, but they are all moſt ſtrange lies, and not to be believed by man.</p>
+            <p>Sometimes he will be gon for the ſpace of a weeke or a fortnight together, but whither no man knows, but his men or Devills, or what<g ref="char:EOLhyphen"/>ſoever they are which wait upon him, are always with him.</p>
+            <p>Now many poore ſilly people doe believe this man to be the ſaviour which was promiſed, and now is come, but I believe and faithfully perſwade my ſelfe that they do deceive them<g ref="char:EOLhyphen"/>ſelves,
+<pb n="3" facs="tcp:112421:3"/>and come ſhort of the truth; theſe things if they be true are ſtrange, very ſtrange, yet they are but as a foile to perfection, they are nothing in reſpect of the Miracles which were done by our Saviour, whoſe fame doth as far out-run the fame of this new borne Prophet, as the light of the Sun doth the light of the ſmalleſt Star.</p>
+            <p>It is my cenſure, and the cenſure of many more which have heard of this buſineſſe, that this is rather Antichriſt, then any true prophet, for it is written, Antichriſt ſhall come, and in an other place, beware of falſe Prophets, for they ſhall come and ſtrive to perſwade you from the right way, and lead you to perdition; I cannot chuſe but thinke and admire to ſee how each tittle of his ſayings will come to paſſe, nay day by day they are more and more manifeſted.</p>
+            <p>But here now is hapned a very ſtrange acci<g ref="char:EOLhyphen"/>dent, he was gon for the ſpace of a month toge<g ref="char:EOLhyphen"/>ther as his cuſtome was, in which time there was nothing but lightning, and thunder, and horrible tempeſts, in ſo much that each man expected no otherwiſe but that the laſt day had beene come, for night and day there was no reſting, every one expecting his houſe to be blowne downe about his eares, great harme was done by the tempeſtu<g ref="char:EOLhyphen"/>ous winds. There was a poore man had beene a<g ref="char:EOLhyphen"/>broad amongſt the woods to gather ſticks, which poore man was taken up by a whirlwind and was no more ſeene or heard of again; An other thing alſo which is much to be admired at, which would make men beware how they tempt the an<g ref="char:EOLhyphen"/>gry
+<pb n="4" facs="tcp:112421:4"/>Heavens, for feare that they ſuffer the like puniſhment.</p>
+            <p>In all this hurlie burlie, when the contenti<g ref="char:EOLhyphen"/>ous Heavens were jarring, there was a boy which laughed exceſſively, and very merry hee was, ſaying that none but fooles would bee afraid of lightning and thunder, for it was impoſsible that it ſhould hurt them; wherefore becauſe he would ſhew himſelfe foole-hardie, he run about in the raine, as if he would provoke Heaven to doe its worſt, nay this was not folly enough for him to act, he began now to bee wickedly impudent, for (ſaid hee) if any one will give mee any thing, ile goe and ſhew my breech to the thun<g ref="char:EOLhyphen"/>der, an other unhappy bird although not altoge<g ref="char:EOLhyphen"/>ther ſo unluckie, told him that if hee would doe it he would give him all his points, and for<g ref="char:EOLhyphen"/>give him the two farthings which he owed unto him, wilt thou (ſaid hee) and preſently hee went forth into the greene and there hee did it, but marke, ſorrow, and tremble reader, the Lord wil ſhew himſelfe to be a great God, there came a thunderbolt and ſtrooke his breech from his body, his body was no more ſeene, but his breech lay there as a ſigne for what he was puniſhed. All you young youths to whom this preſent diſ<g ref="char:EOLhyphen"/>courſe ſhall come, learne to refrain ſuch foole-hardie attempts, for by this you may ſee, that the Lord will not be dallied withall, read therefore, and conſider, and the Lord guide you and keepe you, I have for a while derogated from my Sto<g ref="char:EOLhyphen"/>ry.</p>
+            <p>
+               <pb n="1" facs="tcp:112421:4"/>
+At the moneths end this prophet and his ug<g ref="char:EOLhyphen"/>lie rouges were ſeene again, and for becauſe there was ſuch a great deal of harm done in the land by reaſon of the thunder, as rooting up trees, blow<g ref="char:EOLhyphen"/>ing downe houſes, murthers and ſuch like, they began to examine him where he had beene, hee anſwered them very ſcornfully, that he was not come into the World to be examined but to ex<g ref="char:EOLhyphen"/>amine, not to be ruled but to rule over others, with theſe and ſuch like peremptorie words hee anſwered them, till at laſt he had incenſed them ſo far that they told him flat and plaine they muſt and would examine him, and if hee denyed to anſwer to ſuch interrogatories which they would propoſe, there was no abiding for him, neither ſhould he ſtay there, why (ſaid hee) you ſhall bee beholding to mee to ſtay, or elſe I will not ſtay and with that hee vaunted ted himſelfe and flew away from them through the aire, and his men with him, but ever ſince, the Countrey hath beene affrighted with thunder and tempeſts, and earth-quakes, that the like was ne<g ref="char:EOLhyphen"/>ver knowne there bafore, In ſo much that they feare the whole Countries deſolation, and they now pray with our liturgie, <hi>from lightning and tem<g ref="char:EOLhyphen"/>peſt, and from ſuddain death,</hi>
+            </p>
+            <closer>Good Lord deliver us.</closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
